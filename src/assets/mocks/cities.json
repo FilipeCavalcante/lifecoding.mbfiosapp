@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "label": "São Paulo",
+      "value": "1",
+      "state": "sp"
+    },
+    {
+      "label": "Indaiatuba",
+      "value": "2",
+      "state": "sp"
+    },
+    {
+      "label": "Campinas",
+      "value": "3",
+      "state": "sp"
+    },
+    {
+      "label": "Sorocaba",
+      "value": "4",
+      "state": "sp"
+    }
+  ]
+}

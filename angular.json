@@ -28,9 +28,22 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "node_modules/bootstrap/dist/css/bootstrap.css",
+              "node_modules/animate.css/animate.css",
+              "node_modules/@fortawesome/fontawesome-free/scss/brands.scss",
+              "node_modules/@fortawesome/fontawesome-free/scss/solid.scss",
+              "node_modules/@fortawesome/fontawesome-free/scss/regular.scss",
+              "node_modules/@fortawesome/fontawesome-free/scss/v4-shims.scss",
+              "node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss",
+              "node_modules/primeicons/primeicons.css",
+              "src/assets/stylesheet/wave/button.scss",
+              "src/assets/stylesheet/styles.scss",
+              "node_modules/primeng/resources/primeng.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.js",
+              "node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {

@@ -1,0 +1,19 @@
+/*----------------------------------------*/
+/*  60. ActionBars CSS
+/*----------------------------------------*/
+.actionbar-area{
+  margin-bottom:10px;
+
+  .actionbar-list{
+    float:right;
+
+    .actionbar-wp{
+      display:flex;
+
+      .btn {
+        margin-left: 6px
+      }
+    }
+  }
+}
+

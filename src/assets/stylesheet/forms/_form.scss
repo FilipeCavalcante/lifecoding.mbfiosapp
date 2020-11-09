@@ -1,0 +1,39 @@
+.form-wrap {
+  padding: 20px;
+  background: #fff;
+
+  /*----------------------------------------*/
+  /*  37.  Form examples CSS -- OVERRIDE
+/*----------------------------------------*/
+  .form-int label {
+    font-size: 14px;
+    color: #333;
+    font-weight: 400;
+    margin: 0px;
+  }
+
+  .form-int {
+    input[type="text"] {
+      font-size: 14px;
+    }
+  }
+  .form-int.form-horizental {
+    .hrzn-fm {
+      text-align: right;
+      display: block;
+    }
+  }
+
+  .form-st .form-group,
+  .form-st .fm-checkbox {
+    margin-bottom: 0px;
+  }
+}
+
+.form-actions {
+  float:right;
+
+  .btn {
+    margin-left: 4px;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "Life Coding",
+      "city": "Sâo Paulo",
+      "state": "SP",
+      "isActive": true
+    },
+    {
+      "name": "DotDet C. D. S.",
+      "city": "Jundiaí",
+      "state": "SP",
+      "isActive": false
+    }
+  ]
+}
